@@ -46,4 +46,7 @@ $ expense-tracker summary
 
 $ expense-tracker summary --month 8
 # Total expenses for August: $20
+
+$ expense-tracker export
+# export expense to csv file successfully
 ```
